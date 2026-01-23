@@ -83,7 +83,8 @@
       "name": "Grok-2",
       "provider": "xAI",
       "context_window": 128000,
-      "token_ratio": 4.0
+      "token_ratio": 4.0,
+      "non_existing_key":true
     }
   ]
 }
