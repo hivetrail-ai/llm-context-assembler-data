@@ -1,0 +1,89 @@
+{
+  "created_time": "2026-01-23T17:05:43+0000",
+  "models": [
+    {
+      "id": "o1-pro",
+      "name": "OpenAI o1 Pro",
+      "provider": "OpenAI",
+      "context_window": 200000,
+      "token_ratio": 4.0
+    },
+    {
+      "id": "o1-preview",
+      "name": "OpenAI o1 Preview",
+      "provider": "OpenAI",
+      "context_window": 128000,
+      "token_ratio": 4.0
+    },
+    {
+      "id": "o1-mini",
+      "name": "OpenAI o1 Mini",
+      "provider": "OpenAI",
+      "context_window": 128000,
+      "token_ratio": 4.0
+    },
+    {
+      "id": "gpt-4o",
+      "name": "GPT-4o",
+      "provider": "OpenAI",
+      "context_window": 128000,
+      "token_ratio": 4.0
+    },
+    {
+      "id": "claude-3-5-sonnet-20241022",
+      "name": "Claude 3.5 Sonnet (New)",
+      "provider": "Anthropic",
+      "context_window": 200000,
+      "token_ratio": 3.8
+    },
+    {
+      "id": "claude-3-5-haiku-20241022",
+      "name": "Claude 3.5 Haiku",
+      "provider": "Anthropic",
+      "context_window": 200000,
+      "token_ratio": 3.8
+    },
+    {
+      "id": "gemini-1.5-pro-002",
+      "name": "Gemini 1.5 Pro (002)",
+      "provider": "Google",
+      "context_window": 2000000,
+      "token_ratio": 4.2
+    },
+    {
+      "id": "gemini-1.5-flash-002",
+      "name": "Gemini 1.5 Flash (002)",
+      "provider": "Google",
+      "context_window": 1000000,
+      "token_ratio": 4.2
+    },
+    {
+      "id": "llama-3.2-90b-vision",
+      "name": "Llama 3.2 90B Vision",
+      "provider": "Meta",
+      "context_window": 128000,
+      "token_ratio": 4.0
+    },
+    {
+      "id": "deepseek-v3",
+      "name": "DeepSeek V3",
+      "provider": "DeepSeek",
+      "context_window": 128000,
+      "token_ratio": 4.0
+    },
+    {
+      "id": "mistral-large-2411",
+      "name": "Mistral Large 2 (Nov 24)",
+      "provider": "Mistral",
+      "context_window": 128000,
+      "token_ratio": 4.0
+    },
+    {
+      "id": "grok-2",
+      "name": "Grok-2",
+      "provider": "xAI",
+      "context_window": 128000,
+      "token_ratio": 4.0
+    }
+  ]
+}
