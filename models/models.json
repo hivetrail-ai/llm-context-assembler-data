@@ -1,5 +1,5 @@
 {
-  "created_time": "2026-01-23T17:05:43+0000",
+  "created_time": "2026-01-23T18:35:43+0000",
   "models": [
     {
       "id": "o1-pro",
@@ -83,8 +83,7 @@
       "name": "Grok-2",
       "provider": "xAI",
       "context_window": 128000,
-      "token_ratio": 4.0,
-      "non_existing_key":true
+      "token_ratio": 4.0
     }
   ]
 }
